@@ -32,8 +32,7 @@
 
 ## 📌 Proyectos destacados
 
-- [Luxestay](https://github.com/erreyesjoel/luxestay) — Plataforma en Laravel para gestión de hoteles.
-- [ProjectOne](https://github.com/erreyesjoel/projectone) — Proyecto web con HTML, CSS y JavaScript puro.
+- [BookItNow](https://github.com/erreyesjoel/bookItNow) — Plataforma cadena restaurantes
 
 ---
 
@@ -47,5 +46,5 @@
 
 ## 📫 Puedes contactarme en:
 
-- ✉️ Email: joel.tucorreo@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- ✉️ Email: erreyesjoel.gms@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/joel-erreyes-307218354/)
