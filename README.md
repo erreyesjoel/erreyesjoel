@@ -7,25 +7,26 @@
 
 ## 💻 Tecnologías que manejo
 
-- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
-- [SASS](https://sass-lang.com/)
-- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- [PHP](https://www.php.net/)
-- [MySQL](https://www.mysql.com/)
-- [MariaDB](https://mariadb.org/)
-- [Docker](https://www.docker.com/)
-- [Apache2](https://httpd.apache.org/)
-- [AWS](https://aws.amazon.com/) — [EC2](https://aws.amazon.com/ec2/)
-- [Windows Server](https://learn.microsoft.com/es-es/windows-server/)
-- [Linux](https://www.kernel.org/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## ⚙️ Frameworks utilizados
 
-- [Laravel](https://laravel.com/)
-- [Vue.js](https://vuejs.org/)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 ---
 
@@ -46,5 +47,5 @@
 
 ## 📫 Puedes contactarme en:
 
-- ✉️ Email: joel.tucorreo@example.com
+- ✉️ Email: joel.tucorreo@example.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
