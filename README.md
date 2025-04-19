@@ -12,6 +12,7 @@
 [![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -41,10 +42,11 @@
 - Siempre dispuesto a aprender nuevas tecnologías.
 - Me gusta construir proyectos útiles, ordenados y funcionales.
 - En constante formación y mejora personal.
+- De **Java**, tengo conocimientos básicos: manejo de clases, métodos, getters y estructuras de control.
 
 ---
 
 ## 📫 Puedes contactarme en:
 
-- ✉️ Email: erreyesjoel.gms@gmail.com
+- ✉️ Email: erreyesjoel.gms@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joel-erreyes-307218354/)
