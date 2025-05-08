@@ -31,6 +31,15 @@
 
 ---
 
+## 🧰 IDEs que he utilizado
+
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Visual Studio Insiders](https://img.shields.io/badge/VS_Insiders-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://code.visualstudio.com/insiders/)
+
+---
+
 ## 📌 Proyectos destacados
 
 - [BookItNow](https://github.com/erreyesjoel/bookItNow) — Plataforma cadena restaurantes
