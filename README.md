@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Joel Erreyes
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) en el Institut Nicolau Copèrnic (Terrassa, Barcelona).  
+💻 Desarrollador **Full Stack**  
 💻 Apasionado por el desarrollo web, la administración de sistemas y las herramientas open source.
+
 
 ---
 
