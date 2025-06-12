@@ -23,6 +23,8 @@
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/es-es/windows-server/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat&logo=protocolsio&logoColor=white)](https://restfulapi.net/)
+[![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=flat&logoColor=white)](https://dinahosting.com/)
+
 
 ---
 
