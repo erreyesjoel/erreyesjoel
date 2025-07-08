@@ -17,6 +17,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
@@ -25,7 +26,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat&logo=protocolsio&logoColor=white)](https://restfulapi.net/)
 [![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=flat&logoColor=white)](https://dinahosting.com/)
-
 
 ---
 
@@ -39,7 +39,6 @@
 [![Flask](https://img.shields.io/badge/Flask-2C3E50?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![DRF](https://img.shields.io/badge/Django%20REST%20framework-4B4B4B?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 
-
 ---
 
 ## 🧰 IDEs que he utilizado
@@ -49,7 +48,6 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Insiders](https://img.shields.io/badge/VS_Insiders-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://code.visualstudio.com/insiders/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=black)](https://www.jetbrains.com/pycharm/)
-
 
 ---
 
@@ -61,9 +59,9 @@
 
 ## 🚀 Sobre mí
 
-- Siempre dispuesto a aprender nuevas tecnologías.
-- Me gusta construir proyectos útiles, ordenados y funcionales.
-- En constante formación y mejora personal.
+- Siempre dispuesto a aprender nuevas tecnologías.  
+- Me gusta construir proyectos útiles, ordenados y funcionales.  
+- En constante formación y mejora personal.  
 - De **Java**, tengo conocimientos básicos: manejo de clases, métodos, getters y estructuras de control.
 
 ---
