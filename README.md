@@ -26,6 +26,9 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat&logo=protocolsio&logoColor=white)](https://restfulapi.net/)
 [![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=flat&logoColor=white)](https://dinahosting.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
+
 
 ---
 
@@ -38,6 +41,8 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-2C3E50?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![DRF](https://img.shields.io/badge/Django%20REST%20framework-4B4B4B?style=flat&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+
 
 ---
 
