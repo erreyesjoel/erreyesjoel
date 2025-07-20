@@ -77,4 +77,4 @@
 ## 📫 Puedes contactarme en:
 
 - ✉️ Email: erreyesjoel.gms@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joel-erreyes-307218354/)
+- 💼 [LinkedIn](www.linkedin.com/in/joel-erreyes-4b1245282)
