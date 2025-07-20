@@ -28,6 +28,8 @@
 [![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=flat&logoColor=white)](https://dinahosting.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+
 
 
 ---
