@@ -34,7 +34,7 @@
 
 ---
 
-## ⚙️ Frameworks utilizados
+## ⚙️ Frameworks y librerias
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
