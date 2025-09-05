@@ -37,6 +37,12 @@
 [![DRF](https://img.shields.io/badge/DRF-4B4B4B?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-6e37ff?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
+**Desarrollo de APIs**  
+- REST con Laravel, Django REST Framework y Express.js
+  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+
 ---
 
 ## 🗄️ Bases de Datos
@@ -56,11 +62,14 @@
 [![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/ec2/)
 [![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=for-the-badge&logoColor=white)](https://dinahosting.com/)
 
-**Sistemas operativos**  
+**Sistemas operativos**
+---
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/es-es/windows-server/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
 
 ---
 
