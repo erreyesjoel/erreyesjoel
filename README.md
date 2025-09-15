@@ -5,7 +5,10 @@
 
 ---
 
-## 🖥️ Frontend
+## 🖥️ Frontend – Lo que ves en pantalla  
+Me gusta construir interfaces limpias, rápidas y accesibles, donde cada detalle aporta a la experiencia del usuario.  
+
+**Lenguajes y estilos**  
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -22,7 +25,10 @@
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend – El motor detrás de escena  
+Aquí es donde las ideas cobran vida: lógica, seguridad y escalabilidad para que todo funcione sin que el usuario lo note.  
+
+**Lenguajes principales**  
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -36,15 +42,19 @@
 [![DRF](https://img.shields.io/badge/DRF-4B4B4B?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-6e37ff?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
-**Desarrollo de APIs**  
-- REST con Laravel, Django REST Framework y Express.js
-  
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+---
 
+## 🔌 APIs – La conexión entre mundos  
+Me gusta crear APIs bien estructuradas, seguras y fáciles de consumir, que sirvan de puente entre el frontend y el backend.  
+
+- Diseño y desarrollo de **REST APIs** con Laravel, Django REST Framework y Express.js.  
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
-## 🗄️ Bases de Datos
+## 🗄️ Bases de Datos – Donde vive la información  
+Los datos son el corazón de cualquier aplicación. Me enfoco en diseñar esquemas optimizados y consultas eficientes.  
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
@@ -53,7 +63,8 @@
 
 ---
 
-## ☁️ DevOps / Infraestructura
+## ☁️ DevOps / Infraestructura – La nube y los engranajes  
+Me gusta automatizar despliegues y asegurar entornos estables, para que el software llegue a producción de forma confiable.  
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
@@ -61,8 +72,11 @@
 [![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/ec2/)
 [![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=for-the-badge&logoColor=white)](https://dinahosting.com/)
 
-**Sistemas operativos**
 ---
+
+## 🖥️ Sistemas operativos – Mis entornos de batalla  
+Trabajo con distintos sistemas según la necesidad: desde servidores en Linux hasta entornos de escritorio en Windows.  
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
