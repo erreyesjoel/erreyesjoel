@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Joel Erreyes
 
 💻 Desarrollador **Full Stack**  
+🛡️ Estudiante de **especialidad en Ciberseguridad**.  
 💻 Apasionado por el desarrollo web, la administración de sistemas y las herramientas open source.
 
 ---
@@ -70,7 +71,25 @@ Me gusta automatizar despliegues y asegurar entornos estables, para que el softw
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)](https://aws.amazon.com/ec2/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![DinaHosting](https://img.shields.io/badge/DinaHosting-00AEEF?style=for-the-badge&logoColor=white)](https://dinahosting.com/)
+
+---
+
+## 🧠 Ciberseguridad – Entornos seguros y éticos  
+Actualmente estudio una **especialidad en Ciberseguridad**, enfocada en la protección, gestión y fortalecimiento de sistemas informáticos.  
+
+- Administración y endurecimiento de sistemas **Linux**.  
+- Uso de **Fedora**, **AlmaLinux**, **Ubuntu Server** y **Kali Linux** en entornos de práctica.  
+- Introducción al **hacking ético** y **pruebas de penetración**.  
+- Configuración segura de entornos virtualizados con **Vagrant** y **VirtualBox**.  
+- Análisis y gestión de vulnerabilidades básicas.
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
 
 ---
 
@@ -78,8 +97,11 @@ Me gusta automatizar despliegues y asegurar entornos estables, para que el softw
 Trabajo con distintos sistemas según la necesidad: desde servidores en Linux hasta entornos de escritorio en Windows.  
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Ubuntu Desktop](https://img.shields.io/badge/Ubuntu_Desktop-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
@@ -96,6 +118,7 @@ Trabajo con distintos sistemas según la necesidad: desde servidores en Linux ha
 - Siempre dispuesto a aprender nuevas tecnologías.  
 - Me gusta construir proyectos útiles, ordenados y funcionales.  
 - En constante formación y mejora personal.  
+- Actualmente aprendiendo sobre **ciberseguridad y hacking ético**.  
 - De **Java**, tengo conocimientos básicos: manejo de clases, métodos, getters y estructuras de control.
 
 ---
