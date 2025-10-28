@@ -48,9 +48,11 @@ Aquí es donde las ideas cobran vida: lógica, seguridad y escalabilidad para qu
 ## 🔌 APIs – La conexión entre mundos  
 Me gusta crear APIs bien estructuradas, seguras y fáciles de consumir, que sirvan de puente entre el frontend y el backend.  
 
-- Diseño y desarrollo de **REST APIs** con Laravel, Django REST Framework y Express.js.  
+- Diseño y desarrollo de **REST APIs** con Laravel, Django REST Framework y Express.js  
 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![DRF](https://img.shields.io/badge/DRF-4B4B4B?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/) [![Express.js](https://img.shields.io/badge/Express.js-6e37ff?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+*Postman lo utilizo exclusivamente para probar y documentar APIs.*
 
 ---
 
@@ -80,16 +82,14 @@ Me gusta automatizar despliegues y asegurar entornos estables, para que el softw
 ## 🧠 Ciberseguridad – Entornos seguros y éticos  
 Actualmente estudio una **especialidad en Ciberseguridad**, enfocada en la protección, gestión y fortalecimiento de sistemas informáticos.  
 
-- Administración y endurecimiento de sistemas **Linux**.  
-- Uso de **Fedora**, **AlmaLinux**, **Ubuntu Server** y **Kali Linux** en entornos de práctica.  
-- Introducción al **hacking ético** y **pruebas de penetración**.  
-- Configuración segura de entornos virtualizados con **Vagrant** y **VirtualBox**.  
-- Análisis y gestión de vulnerabilidades básicas.
+- Administración y endurecimiento de sistemas **Linux**  
+- Uso de **Fedora**, **AlmaLinux**, **Ubuntu Server** y **Kali Linux** en entornos de práctica  
+- Introducción al **hacking ético** y **pruebas de penetración**  
+- Configuración segura de entornos virtualizados con **Vagrant** y **VirtualBox**  
+- Automatización de tareas y despliegues en sistemas Linux con herramientas como **Ansible**  
+- Análisis y gestión de vulnerabilidades básicas  
 
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
-[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
-[![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/) [![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/) [![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server) [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ---
 
