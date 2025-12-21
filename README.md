@@ -112,6 +112,9 @@ Trabajo con distintos sistemas según la necesidad: desde servidores en Linux ha
 - [BookItNow](https://github.com/erreyesjoel/bookItNow) — Plataforma cadena restaurantes
 
 ---
+## 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erreyesjoel&layout=compact&theme=tokyonight)
 
 ## 🚀 Sobre mí
 
