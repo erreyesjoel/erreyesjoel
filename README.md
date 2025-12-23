@@ -49,8 +49,13 @@ Aquí es donde las ideas cobran vida: lógica, seguridad y escalabilidad para qu
 Me gusta crear APIs bien estructuradas, seguras y fáciles de consumir, que sirvan de puente entre el frontend y el backend.  
 
 - Diseño y desarrollo de **REST APIs** con Laravel, Django REST Framework y Express.js  
+- Uso de **Swagger / OpenAPI** para documentar y probar endpoints de forma interactiva  
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) [![DRF](https://img.shields.io/badge/DRF-4B4B4B?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/) [![Express.js](https://img.shields.io/badge/Express.js-6e37ff?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/) 
+[![DRF](https://img.shields.io/badge/DRF-4B4B4B?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/) 
+[![Express.js](https://img.shields.io/badge/Express.js-6e37ff?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 *Postman lo utilizo exclusivamente para probar y documentar APIs.*
 
