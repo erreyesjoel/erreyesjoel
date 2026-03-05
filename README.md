@@ -123,10 +123,8 @@ Trabajo con distintos sistemas según la necesidad: desde servidores en Linux ha
 
 - Siempre dispuesto a aprender nuevas tecnologías.  
 - Me gusta construir proyectos útiles, ordenados y funcionales.  
-- En constante formación y mejora personal.  
-- Actualmente aprendiendo sobre **ciberseguridad y hacking ético**.  
-- De **Java**, tengo conocimientos básicos: manejo de clases, métodos, getters y estructuras de control.
-
+- En constante formación y mejora personal.
+- 
 ---
 
 ## 📫 Puedes contactarme en:
