@@ -115,7 +115,7 @@ Trabajo con distintos sistemas según la necesidad: desde servidores en Linux ha
 
 ## 📌 Proyectos destacados
 
-- [BookItNow](https://github.com/erreyesjoel/bookItNow) — Plataforma cadena restaurantes
+- [EasyTrip](https://github.com/erreyesjoel/EasyTrip) — Gestión y reservas de paquetes turisticos
 
 ---
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erreyesjoel&theme=tokyonight)
