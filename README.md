@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Joel Erreyes
 
 💻 Desarrollador **Full Stack**  
-🛡️ Estudiante de **especialidad en Ciberseguridad**.  
+🛡️ Especializado en **Ciberseguridad**.  
 💻 Apasionado por el desarrollo web, la administración de sistemas y las herramientas open source.
 
 ---
@@ -85,7 +85,7 @@ Me gusta automatizar despliegues y asegurar entornos estables, para que el softw
 ---
 
 ## 🧠 Ciberseguridad – Entornos seguros y éticos  
-Actualmente estudio una **especialidad en Ciberseguridad**, enfocada en la protección, gestión y fortalecimiento de sistemas informáticos.  
+Graduado en **especialidad en Ciberseguridad**, enfocada en la protección, gestión y fortalecimiento de sistemas informáticos.  
 
 - **Seguridad Perimetral:** Configuración y administración de Firewalls con **pfSense** y **OPNsense**.
 - Administración y endurecimiento de sistemas **Linux**.  
