@@ -1,8 +1,11 @@
 # 👋 ¡Hola! Soy Joel Erreyes
 
 💻 Desarrollador **Backend / Full Stack**
+
 🛡️ Formación complementaria en **Ciberseguridad**
+
 💻 Apasionado por el desarrollo web, la administración de sistemas y las herramientas open source.
+
 
 🌐 Portfolio: [joelerreyes-portfolio.netlify.app](https://joelerreyes-portfolio.netlify.app/)
 
