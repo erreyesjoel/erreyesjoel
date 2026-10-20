@@ -41,7 +41,7 @@ Building responsive web interfaces with modern frontend technologies.
 
 ## ⚙️ Backend Development
 
-Developing backend applications with PHP, Python, and modern frameworks.
+Developing backend applications and business logic with PHP, Python, and modern frameworks.
 
 **Programming Languages**
 
@@ -72,9 +72,19 @@ Developing backend applications with PHP, Python, and modern frameworks.
 
 Database design and management with MySQL, MariaDB, and PostgreSQL.
 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 ## ☁️ DevOps & Infrastructure
 
 Containerization, virtual machines, and server infrastructure using Docker, Apache, AWS, Vagrant, and VirtualBox.
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 ## 🛡️ Cybersecurity
 
@@ -83,9 +93,21 @@ Containerization, virtual machines, and server infrastructure using Docker, Apac
 - Introduction to ethical hacking and penetration testing.
 - Task automation with Ansible.
 
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org/)
+[![OPNsense](https://img.shields.io/badge/OPNsense-FF6600?style=for-the-badge&logo=opnsense&logoColor=white)](https://opnsense.org/)
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+
 ## 🖥️ Operating Systems
 
-Experience working with Linux distributions, including Fedora, AlmaLinux, Ubuntu Server, and Kali Linux, as well as Windows.
+Working with Linux distributions and Windows across server and desktop environments.
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ---
 
@@ -97,16 +119,18 @@ Full Stack application developed in a team of two for the Agrupació Astronòmic
 
 - **Technologies:** Laravel, MariaDB, Docker.
 - **Impact:** Used by 50+ members.
+- **Focus:** Membership and inventory management.
 - **Source code:** Private client project.
 
 🔗 [View screenshots and project details](https://joelerreyes-portfolio.netlify.app/)
 
 ### Job Board — Institut Montserrat Roig
 
-Full Stack job board currently in production.
+Full Stack job board built for the institute and currently in production.
 
 - **Technologies:** Vue.js, Laravel.
 - **Impact:** Used by 120+ users.
+- **Focus:** Connecting job opportunities with users through a dedicated platform.
 - **Source code:** Private.
 
 🎬 [Watch the demo](https://www.youtube.com/watch?v=qzG-khej7M0) · 🌐 [View project details](https://joelerreyes-portfolio.netlify.app/)
