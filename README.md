@@ -4,7 +4,7 @@
 
 🛡️ Additional training in **Cybersecurity**
 
-Passionate about web development, system administration, and open-source technologies. I enjoy building practical, secure, and maintainable applications.
+I build web applications, REST APIs, and backend systems, with an interest in cybersecurity, Linux, and infrastructure.
 
 <p align="left">
   <a href="https://joelerreyes-portfolio.netlify.app/">
@@ -21,7 +21,7 @@ Passionate about web development, system administration, and open-source technol
 
 ## 🖥️ Frontend Development
 
-I enjoy building clean, fast, and accessible interfaces where every detail contributes to a better user experience.
+Building responsive web interfaces with modern frontend technologies.
 
 **Languages & Styling**
 
@@ -41,7 +41,7 @@ I enjoy building clean, fast, and accessible interfaces where every detail contr
 
 ## ⚙️ Backend Development
 
-I focus on application logic, security, and scalability to build reliable systems that work seamlessly behind the scenes.
+Developing backend applications with PHP, Python, and modern frameworks.
 
 **Programming Languages**
 
@@ -59,69 +59,33 @@ I focus on application logic, security, and scalability to build reliable system
 
 ## 🔌 API Development
 
-I enjoy designing well-structured, secure, and easy-to-consume APIs that connect frontend applications with backend services.
-
-- Designing and developing **REST APIs** with Laravel and Django REST Framework.
-- Implementing authentication with **JWT** and `httpOnly` cookies.
-- Documenting and testing endpoints with **Swagger / OpenAPI**.
-- Using Postman to test API requests and document API workflows.
+- REST API development with Laravel and Django REST Framework.
+- Authentication using JWT and `httpOnly` cookies.
+- API documentation and testing with Swagger / OpenAPI and Postman.
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![DRF](https://img.shields.io/badge/DRF-4B4B4B?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
----
-
 ## 🗄️ Databases
 
-Data is at the heart of every application. I focus on database design, optimized schemas, and efficient queries.
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
----
+Database design and management with MySQL, MariaDB, and PostgreSQL.
 
 ## ☁️ DevOps & Infrastructure
 
-I am interested in deployment automation and maintaining stable environments to ensure reliable software delivery.
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
-
----
+Containerization, virtual machines, and server infrastructure using Docker, Apache, AWS, Vagrant, and VirtualBox.
 
 ## 🛡️ Cybersecurity
 
-Additional training focused on protecting, managing, and hardening computer systems and networks.
-
-- **Network Security:** Firewall configuration and administration with **pfSense** and **OPNsense**.
+- Network security and firewall administration with pfSense and OPNsense.
 - Linux system administration and hardening.
-- Hands-on practice with **Fedora**, **AlmaLinux**, **Ubuntu Server**, and **Kali Linux**.
-- Introduction to **ethical hacking** and **penetration testing**.
-- Task automation and secure deployments with **Ansible**.
-
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org/)
-[![OPNsense](https://img.shields.io/badge/OPNsense-FF6600?style=for-the-badge&logo=opnsense&logoColor=white)](https://opnsense.org/)
-[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
-[![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-
----
+- Introduction to ethical hacking and penetration testing.
+- Task automation with Ansible.
 
 ## 🖥️ Operating Systems
 
-I work with different operating systems depending on the task, from Linux servers to desktop environments.
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
-[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
-[![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+Experience working with Linux distributions, including Fedora, AlmaLinux, Ubuntu Server, and Kali Linux, as well as Windows.
 
 ---
 
@@ -131,18 +95,18 @@ I work with different operating systems depending on the task, from Linux server
 
 Full Stack application developed in a team of two for the Agrupació Astronòmica de Terrassa.
 
-- **Technologies:** Laravel, MariaDB, and Docker.
-- **Real-world use:** Used by more than 50 members.
-- **Source code:** Private, as this is a real client project.
+- **Technologies:** Laravel, MariaDB, Docker.
+- **Impact:** Used by 50+ members.
+- **Source code:** Private client project.
 
 🔗 [View screenshots and project details](https://joelerreyes-portfolio.netlify.app/)
 
 ### Job Board — Institut Montserrat Roig
 
-Full Stack job board platform built for the institute and currently in production.
+Full Stack job board currently in production.
 
-- **Technologies:** Vue.js and Laravel.
-- **Real-world use:** Used by more than 120 users.
+- **Technologies:** Vue.js, Laravel.
+- **Impact:** Used by 120+ users.
 - **Source code:** Private.
 
 🎬 [Watch the demo](https://www.youtube.com/watch?v=qzG-khej7M0) · 🌐 [View project details](https://joelerreyes-portfolio.netlify.app/)
@@ -163,10 +127,9 @@ Application for managing and booking travel packages.
 
 ## 🚀 About Me
 
-- Always eager to learn new technologies.
-- Interested in backend development, APIs, and infrastructure.
-- Committed to continuous learning and improvement.
-- I enjoy building practical, well-organized, and functional projects.
+- Focused on backend development, REST APIs, and infrastructure.
+- Interested in cybersecurity and secure application design.
+- Always learning and building practical projects.
 
 ---
 
