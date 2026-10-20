@@ -122,7 +122,11 @@ Full Stack application developed in a team of two for the Agrupació Astronòmic
 - **Focus:** Membership and inventory management.
 - **Source code:** Private client project.
 
-🔗 [View screenshots and project details](https://joelerreyes-portfolio.netlify.app/)
+<p align="left">
+  <a href="https://joelerreyes-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_View_Project-0A66C2?style=for-the-badge" alt="View Project" />
+  </a>
+</p>
 
 ### Job Board — Institut Montserrat Roig
 
@@ -133,13 +137,24 @@ Full Stack job board built for the institute and currently in production.
 - **Focus:** Connecting job opportunities with users through a dedicated platform.
 - **Source code:** Private.
 
-🎬 [Watch the demo](https://www.youtube.com/watch?v=qzG-khej7M0) · 🌐 [View project details](https://joelerreyes-portfolio.netlify.app/)
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=qzG-khej7M0">
+    <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+  <a href="https://joelerreyes-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Project_Details-0A66C2?style=for-the-badge" alt="Project Details" />
+  </a>
+</p>
 
 ### EasyTrip
 
 Application for managing and booking travel packages.
 
-🔗 [Explore the repository](https://github.com/erreyesjoel/EasyTrip)
+<p align="left">
+  <a href="https://github.com/erreyesjoel/EasyTrip">
+    <img src="https://img.shields.io/badge/⌘_Explore_Repository-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repository" />
+  </a>
+</p>
 
 ---
 
